@@ -1,0 +1,14 @@
+.Learn-button {
+  border: 0;
+  color: #644f9c;
+  background: none;
+  font-weight: 500;
+  margin-top: 120px;
+}
+
+.slide_img img {
+  width: 250px;
+  height: 250px;
+  background: #644f9c;
+  padding: 15px;
+}

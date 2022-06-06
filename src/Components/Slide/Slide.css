@@ -1,0 +1,29 @@
+.slider-img img {
+  height: 230px;
+  width: 230px;
+}
+.slider-img {
+  background: #f2f2f2;
+  padding: 10px;
+}
+.slide {
+  background: #fff;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+    rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  width: 75% !important;
+  margin: 30px 100px !important;
+  padding: 20px;
+}
+Slider {
+  background: #f2f2f2;
+}
+
+.slide-button {
+  border: 0;
+  background: #fff;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+    rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}

@@ -1,0 +1,52 @@
+.review {
+  background: #644f9c;
+}
+
+.impression {
+  border: 1px dashed white;
+  width: 230px;
+  height: 230px;
+  border-radius: 50%;
+}
+.paid {
+  background: #f2f2f2;
+  width: 230px;
+  height: 230px;
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+.global {
+  background: #ff6f00;
+  width: 230px;
+  height: 230px;
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+.impression h2 {
+  margin-top: 85px;
+  color: #f2f2f2;
+  font-weight: 700;
+}
+.paid h2 {
+  padding-top: 85px;
+  color: #644f9c;
+  font-weight: 700;
+}
+.global h2 {
+  padding-top: 85px;
+  color: #f2f2f2;
+  font-weight: 700;
+}
+.impression p {
+  color: #f2f2f2;
+  font-weight: 500;
+}
+.paid p {
+  color: #f2f2f2;
+  font-weight: 500;
+  color: #644f9c;
+}
+.global p {
+  color: #f2f2f2;
+  font-weight: 500;
+}
