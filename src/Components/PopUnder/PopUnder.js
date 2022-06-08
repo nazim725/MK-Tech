@@ -1,9 +1,11 @@
 import React from 'react'
 import { Col, Row } from 'react-bootstrap'
 import './PopUnder.css'
+import Zoom from 'react-reveal/Zoom'
 
 const PopUnder = () => {
   return (
+    <Zoom >
     <div>
       <Row className="">
         <Col md={6} sm={12}>
@@ -32,6 +34,7 @@ const PopUnder = () => {
         </Col>
       </Row>
     </div>
+    </Zoom>
   )
 }
 
